@@ -1,0 +1,72 @@
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csprojAssemblyReference.cache
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataGudang.resources
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataOrder.resources
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataTransaksi.resources
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Perubahan.resources
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InventoryChecker.resources
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PasswordDelete.resources
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csproj.GenerateResource.cache
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csproj.CoreCompileInputs.cache
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csproj.CopyComplete
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+A:\Kasir Garment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataGudang.resources
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataOrder.resources
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataTransaksi.resources
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PasswordDelete.resources
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csproj.GenerateResource.cache
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csproj.CoreCompileInputs.cache
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csproj.CopyComplete
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kasir.exe.config
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kasir.exe.manifest
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kasir.application
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kasir.exe
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kasir.pdb
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kasir.Properties.Resources.resources
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kasir.exe.manifest
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kasir.application
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kasir.exe
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kasir.pdb
+A:\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csprojAssemblyReference.cache
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kasir.exe.config
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kasir.exe.manifest
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kasir.application
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kasir.exe
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Kasir.pdb
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csprojAssemblyReference.cache
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataGudang.resources
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataOrder.resources
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataTransaksi.resources
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PasswordDelete.resources
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kasir.Properties.Resources.resources
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csproj.GenerateResource.cache
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csproj.CoreCompileInputs.cache
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kasir.exe.manifest
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kasir.application
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ATK-Bidori.csproj.CopyComplete
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kasir.exe
+A:\ATK\ATK - Kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kasir.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATK-Bidori", "WindowsFormsApp1\ATK-Bidori.csproj", "{A0E655B1-3E66-441F-8324-D0E153B5B09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0E655B1-3E66-441F-8324-D0E153B5B09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E655B1-3E66-441F-8324-D0E153B5B09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E655B1-3E66-441F-8324-D0E153B5B09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E655B1-3E66-441F-8324-D0E153B5B09E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB9A7DB-D759-407C-8CEF-49C7597C3367}
+	EndGlobalSection
+EndGlobal
